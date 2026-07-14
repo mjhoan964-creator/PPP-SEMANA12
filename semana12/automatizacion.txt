@@ -1,0 +1,8 @@
+Evento: nueva causa registrada
+Mensaje: “Nueva causa creada en la plataforma: revisa la petición y comparte el apoyo.”
+Información que no debe enviarse: cédulas, teléfonos, direcciones, datos personales sensibles o comentarios privados.
+
+Alternativa con Telegram:
+Evento: nuevo apoyo recibido
+Mensaje: “Se ha registrado un nuevo apoyo para una causa comunitaria.”
+Información que no debe enviarse: datos personales de los apoyos, direcciones, números de identificación o información sensible.

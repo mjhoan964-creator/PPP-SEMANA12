@@ -1,0 +1,15 @@
+Causa
+- id: identificador único de la causa
+- titulo: nombre breve de la petición
+- descripcion: explicación de la causa
+- fecha: fecha de creación de la causa
+
+Apoyo
+- id: identificador único del apoyo
+- causa_id: referencia a la causa apoyada
+- nombre: nombre o alias de la persona que apoya
+- fecha: fecha en que se registró el apoyo
+
+Explicación:
+- La entidad Causa almacena la información principal de cada petición, permitiendo registrar y describir el motivo.
+- La entidad Apoyo guarda los registros de cada persona que respalda la causa, enlazándolos a la causa correspondiente.

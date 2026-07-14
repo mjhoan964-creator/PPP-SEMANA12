@@ -1,0 +1,10 @@
+Durante el curso aprendí cómo combinar backend, base de datos y generación de documentos para facilitar la participación ciudadana,
+entendí que una plataforma bien diseñada puede hacer más sencillo registrar apoyos a causas comunitarias la automatización permite 
+notificar rápidamente a los interesados sin exponer datos sensibles la generación de un PDF formal ayuda a formalizar la petición y le da fuerza
+frente a decisiones públicas; También aprendí que es importante minimizar los datos personales para proteger la privacidad de los ciudadanos
+usar herramientas como n8n o Telegram mejora la comunicación y hace el proceso más eficiente La tecnología puede empoderar a la comunidad al simplificar
+la organización y el seguimiento de apoyos, el curso mostró que la tecnología es una herramienta clave para fortalecer la cooperación y la acción
+colectiva de manera segura.  
+
+¡Doy gracias a todos los tutores y profesores por este gran apoyo y por cada explicacion que nos dieron con toda la atencion y paciencia! Es un honor haber
+ terminado este valioso curso con ustedes! infinitas gracias... 
